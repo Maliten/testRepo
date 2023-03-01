@@ -1,1 +1,1 @@
-//some sj code here
+//some js code here
