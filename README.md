@@ -1,10 +1,5 @@
 #testRepo
 new text
-
-<<<<<<< HEAD
-Some more text
-
+Some more text for fix1
 fix2 changes
-=======
 Some great text for fix3
->>>>>>> 221ee902988d194e32eba298cfea3adcc6c5990f
